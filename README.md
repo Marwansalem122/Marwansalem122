@@ -7,21 +7,21 @@
 <a href="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg"align="right"width="25%"></a>
 
 
-I'm a software developer who is passionate Flutter developer.I have always been fascinated by the world of technology, and my journey as a developer began with a strong interest in mobile app development. Flutter quickly caught my attention due to its cross-platform capabilities and the ability to create beautiful, high-performance applications. Some technologies I enjoy working with include Dart , Flutter ,Javascript , Firebase 
+I'm a software developer who is passionate Flutter developer.I have always been fascinated by the world of technology, and my journey as a developer began with a strong interest in mobile app development. Flutter quickly caught my attention due to its cross-platform capabilities and the ability to create beautiful, high-performance applications. Some technologies I enjoy working with include Dart , Flutter ,Javascript ,python ,c++, Firebase 
 <br>
 <br>
 I’m available Connect with via  <a href="https://www.linkedin.com/in/marwan-salem-016a83228/">Linkedin</a> | <a href="https://www.linkedin.com/in/marwan-salem-016a83228/"> WhatsApp</a> 
 
-## Language and Tools
+## 🧰 Languages and Tools:
+<p align="center">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 
-- **Flutter**: A cross-platform framework for building mobile applications.
-- **Dart**: The programming language used in Flutter development.
-- **Firebase**: A platform for building web and mobile applications, including services like Firestore, Authentication, and Cloud Functions.
-- **Git**: A version control system for tracking changes in your codebase.
-- **Visual Studio Code**: A popular code editor with excellent support for Flutter development.
-- **Android Studio**: An integrated development environment (IDE) for Android app development, often used for Flutter projects.
-- **Xcode**: An IDE for iOS app development, used for building and testing Flutter apps on iOS devices.
-- **GitHub**: A web-based platform for version control and collaboration, where this repository is hosted.
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 <!--
 **Marwansalem122/Marwansalem122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
