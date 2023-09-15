@@ -6,7 +6,7 @@
 </p>
 
 
-<a href="https://www.pngmart.com/files/22/Programmer-PNG-Pic.png"align="right"width="25%"></a>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngmart.com%2Fimage%2F353768&psig=AOvVaw324OWT6i07qcDyBK_XzqY4&ust=1694826138006000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjh4sG1q4EDFQAAAAAdAAAAABAE"align="right"width="25%"></a>
 
 
 I'm a software developer who is passionate Flutter developer.I have always been fascinated by the world of technology, and my journey as a developer began with a strong interest in mobile app development. Flutter quickly caught my attention due to its cross-platform capabilities and the ability to create beautiful, high-performance applications. Some technologies I enjoy working with include Dart , Flutter ,Javascript ,python ,c++, Firebase 
