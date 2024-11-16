@@ -2,7 +2,7 @@
 <p align="center"> 
  <a href="https://www.linkedin.com/in/marwansalemabdellatif/"></a>
  <a href="https://api.whatsapp.com/send/?phone=201274087424&text&type=phone_number&app_absent=0"></a>
- <a href="https://"marwansalem0127408742@gmail.com></a>
+ <a href="https://"marwansalemabdellatif@gmail.com></a>
 </p>
 
 
@@ -12,7 +12,7 @@
 I'm a software developer who is passionate Flutter developer.I have always been fascinated by the world of technology, and my journey as a developer began with a strong interest in mobile app development. Flutter quickly caught my attention due to its cross-platform capabilities and the ability to create beautiful, high-performance applications. Some technologies I enjoy working with include Dart , Flutter ,Javascript ,python ,c++, Firebase 
 <br>
 <br>
-I’m available Connect with via  <a href="https://www.linkedin.com/in/marwansalemabdellatif/">Linkedin</a> | <a href="https://www.linkedin.com/in/marwansalemabdellatif/"> WhatsApp</a> 
+I’m available Connect with via  <a href="https://www.linkedin.com/in/marwansalemabdellatif/">Linkedin</a> | <a href="https://api.whatsapp.com/send?phone=201274087424"> WhatsApp</a> 
 
 ## 🧰 Languages and Tools:
 <p align="center">
